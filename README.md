@@ -4,4 +4,4 @@
 ###如需替换背景音乐，请替换static目录下的audio.ogg。为什么使用ogg呢？因为各个浏览器支持ogg的相对多一点。
 ###欢迎高人完善修改此网页。
 ###弱弱附上链接：[用力戳我](http://happy-birthday.coding.io)
-Copyright &copy; 2014 ArkiN@Coding.Net
+Copyright &copy; 2014 ArkiN\@Coding.Net
